@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "fokin-weather",
-    "slug": "fokin-weather",
+    "name": "Weather_app",
+    "slug": "weather_app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Weather_app with nomad",
+    "githubUrl": "https://github.com/developerpark2348/weather_app_react-native"
   }
 }
